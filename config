@@ -1,0 +1,6 @@
+[user]
+	name = Ryan Kavanagh
+	email = ryan.p.kav@gmail.com
+[core]
+	autocrlf = input 
+	safecrlf = true
